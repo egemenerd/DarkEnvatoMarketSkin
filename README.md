@@ -6,11 +6,11 @@ A dark skin for Envato Market to save your eyes !
 
 <p>Download and activate <a href="https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha" target="_blank">Stylebot</a></p>
 
-<p>Click "css" icon on your browser bar and open Stylebot</p>
+<p>Click "css" icon on your browser bar and open Stylebot.</p>
 
 <p><img src="https://cdn.pbrd.co/images/2iH7u0K9.png" /></p>
 
-<p>Copy paste the code in the style.css file to the textbox and click save</p>
+<p>Copy the code in the style.css file and paste it to the textbox. Click save.</p>
 
 <h3>Screenshots</h3>
 
