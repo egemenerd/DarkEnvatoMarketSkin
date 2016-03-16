@@ -261,6 +261,11 @@ span.-color-grey-light {
     color: #fff;
 }
 
+div.user-post__post--item-note {
+    background-color: #333;
+    border-color: #333;
+}
+
 .rating-detailed__title {
     color: #999;
 }
