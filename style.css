@@ -645,6 +645,20 @@ a.screenshots {
     background: #528036;
 }
 
+.comment__container-redesign {
+    background:#333;
+    border-color:#262626;
+}
+.comment__container-redesign p {
+    color:#999
+}
+.comment__item-response {
+    background:#444;
+    border-color:#262626;
+}
+.comment-reply__redesign {
+    border-color:#262626;
+}
 
 /* ================= FOOTER ================== */
 
