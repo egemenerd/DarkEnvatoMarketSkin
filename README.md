@@ -10,7 +10,7 @@ A dark skin for Envato Market to save your eyes !
 
 <p><img src="https://cdn.pbrd.co/images/2iH7u0K9.png" /></p>
 
-<p>Copy the code in the style.css file and paste it to the textbox. Click save.</p>
+<p>Copy the code in the style.css file and paste it into the textbox. Click save.</p>
 
 <h3>Screenshots</h3>
 
