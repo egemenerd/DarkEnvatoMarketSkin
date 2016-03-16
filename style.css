@@ -677,6 +677,20 @@ a.screenshots {
 .comment-reply__redesign {
     border-color:#262626;
 }
+div.e-fieldset.js-.accordion {
+    background-color: #333;
+    border-color: #333;
+}
+
+footer.e-fieldset__footer {
+    background-color: #333;
+    border-color: #1b1b1b;
+}
+
+div.e-fieldset__body.-divider-top {
+    border-color: #262626;
+}
+
 
 /* ================= FOOTER ================== */
 
