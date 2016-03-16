@@ -12,7 +12,9 @@ A dark skin for Envato Market to save your eyes !
 
 <p>Copy the code in the style.css file and paste it into the textbox. Click save.</p>
 
-<h3>Screenshots</h3>
+<p><img src="https://cdn.pbrd.co/images/2iHyWyq0.png" alt="Envato market dark skin" />
+
+<h3>More Screenshots</h3>
 
 <a href="http://pasteboard.co/2iGdKigj.png" target="_blank">Home</a>
 
