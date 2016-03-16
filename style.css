@@ -677,6 +677,9 @@ a.screenshots {
 .comment-reply__redesign {
     border-color:#262626;
 }
+div.comment__initial,.comment-reply {
+    background-color: #333;
+}
 div.e-fieldset.js-.accordion {
     background-color: #333;
     border-color: #333;
