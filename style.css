@@ -247,6 +247,15 @@ div.box--hard-top a {
     color: #fff;
 }
 
+.box--highlight-green {
+    background: #528036;
+    border-color: #528036;
+}
+
+.box--highlight-green a {
+    color: #fff;
+}
+
 span.-color-grey-light {
     background: #528036;
     color: #fff;
