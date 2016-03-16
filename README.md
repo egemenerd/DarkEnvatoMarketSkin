@@ -20,4 +20,4 @@ A dark skin for Envato Market to save your eyes !
 
 <a href="http://pasteboard.co/2iGpSpv5.png" target="_blank">Search</a>
 
-<a href="http://pasteboard.co/2iGrYXrB.png" target="_blank">Populer</a>
+<a href="http://pasteboard.co/2iGrYXrB.png" target="_blank">Popular</a>
